@@ -10,6 +10,7 @@
 - 😧**都不精通**
 
 
+<img align='right' src="https://raw.githubusercontent.com/declandragon/img_res/master/run.gif">
 
 
 **本周编码时长**
