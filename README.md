@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+
+
+- 😄**后端** PHP
+- 😃**前端** HTML，CSS，JavaScript
+- 😆**数据库** MySQL
+- 😝**框架** ThinkPHP
+- 😧**都不精通**
 
 <!--
 **declandragon/declandragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
