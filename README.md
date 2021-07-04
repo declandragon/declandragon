@@ -1,6 +1,8 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
 
+<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
+
 - 😄**后端** PHP
 - 😃**前端** HTML，CSS，JavaScript
 - 😆**数据库** MySQL
