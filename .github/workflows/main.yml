@@ -11,6 +11,6 @@ jobs:
     name: 更新 wakatime README
     runs-on: ubuntu-latest
     steps:
-      - uses: declandragon/waka-readme@master
+      - uses: declandragon/declandragon@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
