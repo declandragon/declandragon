@@ -15,11 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP                        21 hrs 28 mins  █████████████▓░░░░░░░░░░░   55.00 % 
-HTML                       11 hrs 21 mins  ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
-JavaScript                 2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other                      56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Nginx configuration file   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+PHP                        19 hrs 53 mins  ██████████████▓░░░░░░░░░░   58.75 % 
+HTML                       8 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 % 
+JavaScript                 1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Nginx configuration file   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Other                      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
