@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2022 - 26 February, 2022
+Week: 21 February, 2022 - 27 February, 2022
 
 Total: 22 hrs 31 mins
 
