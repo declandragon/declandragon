@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2022 - 08 March, 2022
+Week: 03 March, 2022 - 09 March, 2022
 
 Total: 3 hrs 51 mins
 
