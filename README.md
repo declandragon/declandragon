@@ -3,10 +3,10 @@
 
 <img align='right' src="https://profile-counter.glitch.me/declandragon/count.svg" alt="访客数量"/>
 
-- 😄**后端** PHP
+- 😄**后端** PHP、Python
 - 😃**前端** HTML，CSS，JavaScript
 - 😆**数据库** MySQL
-- 😝**框架** ThinkPHP
+- 😝**框架** ThinkPHP、Laravel
 - 😧**都不精通**
 
 <!--START_SECTION:waka-->
