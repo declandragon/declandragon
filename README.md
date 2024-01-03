@@ -11,6 +11,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/a832fe5a-ad93-4f26-854f-e9b7332b392f.svg)](https://wakatime.com/@a832fe5a-ad93-4f26-854f-e9b7332b392f)
 
+https://wakatime.com/share/@declandragon/c6d2fbce-435a-4559-8684-b18333bb64b4.svg
+
+
 <!--START_SECTION:waka-->
 
 ```txt
