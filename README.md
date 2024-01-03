@@ -9,6 +9,8 @@
 - 😝**框架** ThinkPHP、Laravel
 - 😧**都不精通**
 
+https://wakatime.com/badge/user/a832fe5a-ad93-4f26-854f-e9b7332b392f.svg
+
 <!--START_SECTION:waka-->
 
 ```txt
