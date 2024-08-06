@@ -1,6 +1,6 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=2000&color=00FF12&background=443CFF00&center=true&vCenter=true&width=1000&height=100&lines=May+the+Force+be+with+you+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=2000&color=00FF12&background=443CFF00&center=true&vCenter=true&width=1000&height=100&lines=May+the+Force+be+with+you+%E2%9C%A8)](https://github.com/declandragon)
 
 <img align='right' src="https://profile-counter.glitch.me/declandragon/count.svg" alt="访客数量"/>
 
