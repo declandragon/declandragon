@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=2000&color=00FF12&background=443CFF00&center=true&vCenter=true&width=1000&height=100&lines=May+the+Force+be+with+you+%E2%9C%A8)](https://github.com/declandragon)
 
-<img align='right' src="https://profile-counter.glitch.me/declandragon/count.svg" alt="访客数量"/>
+![](https://komarev.com/ghpvc/?username=declandragon&color=brightgreen)
 
 - 😄**后端** PHP、Python
 - 😃**前端** HTML、CSS、JavaScript
