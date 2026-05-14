@@ -17,6 +17,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_AI_CODE: true
+          SHOW_AI_STATS: true
           TIME_RANGE: last_7_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           COMMIT_MESSAGE: wakatime readme
